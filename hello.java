@@ -4,7 +4,7 @@ public class hello {
        {
                System.out.println("Hello all");
 	       System.out.println("HI");
-	       System.out.println("hhhh");
+	       System.out.println("hhhh////");
        }
 
 }
